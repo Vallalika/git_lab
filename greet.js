@@ -5,3 +5,5 @@ const greet = (name = "World") => {
 const functionThing = () => {
     return "Mr Blobby"
 };
+
+const kittyCat = () => 'I want a cat';
